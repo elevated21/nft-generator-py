@@ -1,5 +1,5 @@
 
-# nft-generator-py
+# nft-elvated_py
 
 ![preview](https://github.com/Jon-Becker/nft-generator-py/blob/main/preview.png?raw=true)
 
